@@ -1,2 +1,2 @@
 # psiqc.github.io
-Website da Psiqc - Psicologia Quantitativa e Computacional.
+Website da Psiqc.
